@@ -13,17 +13,17 @@ columns = 130
 lines = 35
 
 [font.bold]
-family = "JetBrains Mono"
+family = "GeistMonoNerdFont"
 style = "Bold"
 
 [font.bold_italic]
-family = "JetBrains Mono"
+family = "GeistMonoNerdFont"
 style = "Bold Italic"
 
 [font.italic]
-family = "JetBrains Mono"
+family = "GeistMonoNerdFont"
 style = "Italic"
 
 [font.normal]
-family = "JetBrains Mono"
+family = "GeistMonoNerdFont"
 style = "Regular"
